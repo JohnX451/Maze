@@ -107,3 +107,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+.idea/.idea.Maze/.idea/indexLayout.xml
+.idea/.idea.Maze/.idea/vcs.xml
