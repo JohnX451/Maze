@@ -109,3 +109,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 .idea/.idea.Maze/.idea/indexLayout.xml
 .idea/.idea.Maze/.idea/vcs.xml
+.idea/.idea.Maze.dir/.idea/indexLayout.xml
+.idea/.idea.Maze.dir/.idea/projectSettingsUpdater.xml
+.idea/.idea.Maze.dir/.idea/vcs.xml
